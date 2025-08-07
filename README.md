@@ -7,8 +7,6 @@ The SDK is made up of the following core features:
 - Face Quality Analysis
 - Passive Liveness Detection
 - Eye Blink Detection
-- Head Movement Detection (nod and shake)
-- Light Reflection Liveness Detection
 - Face matching
 - Face capture
 
@@ -19,13 +17,7 @@ The xProof Face SDK requires a license that is bound to an application identifie
 
 The demo sample includes the following:
 
-- **Passive Liveness** Provides a reference implementation of Best Practices using Passive Liveness and blink detection.
-
-- **Passive Liveness V2** A sample that demonstrates the Daon Passive Liveness V2 algorithm.
-
-- **Quality** Live and still image quality and face finding demo.
-
-- **FaceCaptureIFP** Demonstrates how to use the face Capture API to capture an image for enrollment and verification. The Capture API supports injection attack prevention when used in conjunction with the IdentityX server.
+- **FaceCaptureIAD** Demonstrates how to use the face Capture API to capture an image for enrollment and verification. The Capture API supports injection attack detection when used in conjunction with the IdentityX server.
 
 ## Swift Package
 Add your GitHub account to Xcode and add the Face SDK as a Swift Package.
