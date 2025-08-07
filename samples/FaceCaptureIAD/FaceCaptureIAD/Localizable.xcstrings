@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Keep device upright" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold telefonen opret"
+          }
+        }
+      }
+    },
+    "Processing - Hold device still" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behandler - Hold telefonen stille"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

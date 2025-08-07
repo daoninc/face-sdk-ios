@@ -1,0 +1,15 @@
+{
+  "originHash" : "98c9f186f7c025d91fd69978d7e45171a2929908e2ce42fcdd81c861df3c4b73",
+  "pins" : [
+    {
+      "identity" : "face-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daoninc/face-sdk-ios",
+      "state" : {
+        "revision" : "ac91e5b5ba84d54d740a2c83d3cbcf0b20ea736d",
+        "version" : "5.3.164"
+      }
+    }
+  ],
+  "version" : 3
+}
