@@ -65,58 +65,58 @@ let package = Package(
     targets: [
          .binaryTarget(
             name: "DaonFaceCapture",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceCapture.xcframework.zip",
-            checksum: "4de38c82ab54b2e04a9e3f66d4c0873ed1c919b8ae1b55c625c78bd1db3fa5f3"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceCapture.xcframework.zip",
+            checksum: "b5082673d84c8c869e478ed70646e2557f9cafc0676b93f90129fecf5102204b"
          ),
          .binaryTarget(
             name: "DaonFaceDetector",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceDetector.xcframework.zip",
-            checksum: "ba0e38c3a9e6e45834e3f1e2141aa51212b6561051e6bd47847d847f7dc47612"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceDetector.xcframework.zip",
+            checksum: "11919e97bde5e69c64ff8b7d8679c52ffe4c90b5ed244b59cc580378bdf62db8"
          ),
          .binaryTarget(
             name: "DaonFaceLiveness",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceLiveness.xcframework.zip",
-            checksum: "9529b2b658f9e1da2a7f26eaa30e64477412f7b704186ed722ba723cea028eb6"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceLiveness.xcframework.zip",
+            checksum: "5dd147d223fb25d3f6b09f08f2f3c19b64a49168b5243c6ac50dd52ee94d1718"
          ),
          .binaryTarget(
             name: "DaonFaceLivenessBlink",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceLivenessBlink.xcframework.zip",
-            checksum: "91ece2fa1734b53a2f0ef95bf0fd969bc7deddef2a15e5c0905cdd3b2d5f9ad9"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceLivenessBlink.xcframework.zip",
+            checksum: "7bd1a919f1d6b0e635bba3245863291d5daa279f52d2976d6f4fd3fa899c51ee"
          ),
          .binaryTarget(
             name: "DaonFaceMaskDetector",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceMaskDetector.xcframework.zip",
-            checksum: "c20ee9db6f2409a522a5051d7b03db2864f9e64aab22cf9a3659f83ac3196ddd"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceMaskDetector.xcframework.zip",
+            checksum: "91d3097e3c5b9a16ecaebab3f7e1d082c9fade2b88c1ac8e685fe91e3bc9c887"
          ),
          .binaryTarget(
             name: "DaonFaceMatcher",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceMatcher.xcframework.zip",
-            checksum: "8b76e3c47cda430588e01a687d1745194d0706504895f2bc390ec18cd7ab416e"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceMatcher.xcframework.zip",
+            checksum: "17ed2adae320e65594a86b06bee9ffa461fbab934e6aa15d6193c0999ab6ef2b"
          ),
          .binaryTarget(
             name: "DaonFacePassiveLiveness",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFacePassiveLiveness.xcframework.zip",
-            checksum: "97d129cbaa5f3e9471004a31145123e95a6ba05f9a51d7592a57d71f73291a61"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFacePassiveLiveness.xcframework.zip",
+            checksum: "08bdde4f45b0f2b7220b0122a81ff880bfaca89333fea546ed2d6fab697b4d61"
          ),
          .binaryTarget(
             name: "DaonFaceQuality",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceQuality.xcframework.zip",
-            checksum: "74e7c94cbf66097308469e338123a6509214c8d3dee99248be692e0a5b245e46"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceQuality.xcframework.zip",
+            checksum: "a476d2157494136694397fa2a1a6885c0afab6d410a6cec06f1ba47e8ebd3057"
          ),
          .binaryTarget(
             name: "DaonFaceSDK",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/DaonFaceSDK.xcframework.zip",
-            checksum: "0fa0e3ef113ea53d9de3e685a73b66b9b7257d2ad6b263a2212bc2314214a102"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/DaonFaceSDK.xcframework.zip",
+            checksum: "cbaf73b245f42c267dcb9a4d16fd8c3e35ca077a4bcfe1a0c14092a0a7ce0f0e"
          ),
          .binaryTarget(
             name: "IDLiveFaceCamera",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/IDLiveFaceCamera.xcframework.zip",
-            checksum: "de3df621118bfc51ffd4264336fc589ad3996d510dc6df21c21de9549e16580c"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/IDLiveFaceCamera.xcframework.zip",
+            checksum: "5727424d4391a5b3a3ea0c8aba5c1f5842b3c3d448a5401efe6ab758c1012300"
          ),
          .binaryTarget(
             name: "IDLiveFaceIAD",
-            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.163/IDLiveFaceIAD.xcframework.zip",
-            checksum: "dd2b9eddcd951ef9d26fa0aafa78b06871df7f8ae3b3890c1e2c4bd64e14d197"
+            url: "https://github.com/daoninc/face-sdk-ios/releases/download/5.3.164/IDLiveFaceIAD.xcframework.zip",
+            checksum: "819b2cedec2fb2c2027da23ca72a23dc5a4528ff0dee563f7f1109e3c2f4e261"
          ),
     ]
 )
