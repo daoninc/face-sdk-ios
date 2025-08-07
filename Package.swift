@@ -49,18 +49,6 @@ let package = Package(
             ]
         ),
         .library(
-            name: "DaonFaceLivenessHMD",
-            targets: [
-                "DaonFaceLivenessHMD"
-            ]
-        ),                    
-        .library(
-            name: "DaonFaceLivenessCLR",
-            targets: [
-                "DaonFaceLivenessCLR"
-            ]
-        ), 
-        .library(
             name: "DaonFaceMaskDetector",
             targets: [
                 "DaonFaceMaskDetector"
